@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">OneNote Utility</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter message</string>
+    <string name="button_loginOneNote">OneNote Login</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <!-- Auth Related Strings -->
+    <string name="auth_yes">Authenticated</string>
+    <string name="auth_no">Not Authenticated</string>
+    <string name="auth_err">Error signing in:</string>
+
+    <!-- Button Strings -->
+    <string name="btn_auth">Authenticate</string>
+    <string name="btn_sendEmbeddedHTML">Fetch NoteBooks</string>
+    <string name="title_activity_results">ResultsActivity</string>
+
+    <!-- Taken from sample -->
+    <string name="lbl_Response_Title">RESPONSE:</string>
+    <string name="lbl_clientLink_Title">ONENOTE CLIENT LINK:</string>
+    <string name="lbl_webLink_Title">ONENOTE WEB LINK:</string>
+    <string name="title_activity_async_response">AsyncResponse</string>
+    <string name="title_activity_api_response">ApiResponse</string>
+    <string name="title_activity_constants">Constants</string>
+    <string name="title_activity_sample">SampleActivity</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_select_notebook">SelectNotebookActivity</string>
+    <string name="title_activity_select_section">SelectSectionActivity</string>
+    <string name="title_activity_page_content">PageContentActivity</string>
+    <string name="title_activity_select_page">SelectPageActivity</string>
+
+</resources>

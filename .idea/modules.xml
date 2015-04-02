@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OneNoteUtility.iml" filepath="$PROJECT_DIR$/OneNoteUtility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/livesdk-src-debug/livesdk-src-debug.iml" filepath="$PROJECT_DIR$/livesdk-src-debug/livesdk-src-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volley-debug/volley-debug.iml" filepath="$PROJECT_DIR$/volley-debug/volley-debug.iml" />
+    </modules>
+  </component>
+</project>
+
